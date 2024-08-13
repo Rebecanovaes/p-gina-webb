@@ -1,0 +1,8 @@
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .contato__descrição {
+    margin-right: 1em;
+    width: 30%;
+  }
+}
