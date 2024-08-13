@@ -1,0 +1,17 @@
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .lista-rodapé__item {
+    display: flex;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .lista-rodapé__link {
+    color: var(--cinza);
+    text-decoration: none;
+    margin-left: 0.6em;
+  }
+}
