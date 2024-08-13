@@ -65,7 +65,21 @@
 }.opções {
   display: none;
 }
+@media screen and (min-width: 1728px) {
+  .container__link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--preto);
+  }
+}
+@media screen and (min-width: 1728px) {
+  /* Código omitido */
 
+  .container__texto {
+    display: block;
+  }
+}
 
 
 
